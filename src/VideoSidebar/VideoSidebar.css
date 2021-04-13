@@ -1,0 +1,16 @@
+.videoSidebar_main {
+  position: absolute;
+  display: flex;
+  top: 40%;
+  right: 10px;
+  color: white;
+  flex-direction: column;
+}
+
+.videoSidebar__button {
+  padding: 10px;
+}
+
+.videoSidebar__button :hover {
+  cursor: pointer;
+}
